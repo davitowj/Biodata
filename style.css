@@ -1,0 +1,22 @@
+*{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+    padding: 20px;
+    max-width: 600px;
+    background-color: #afc2d4;
+    margin :auto;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+img{
+    display: block;
+    max-width: 300px;
+    margin: auto;
+    border-radius: 50%;
+}
